@@ -1,2 +1,4 @@
 # MACR
-Margin-Adaptive Confidence Ranking for LLM judgment
+Code for the paper "Margin-Adaptive Confidence Ranking for Reliable LLM Judgement"
+
+Coming soon!
